@@ -10,13 +10,9 @@
 
 Habilidades: PHP / REACT / JS / HTML / CSS / SQL / Python
 
-![github](https://th.bing.com/th/id/R.cae1b4f6b223fe5a7bb712b680cffa67?rik=DpBcDgsVsaTpvQ&riu=http%3a%2f%2fassets.stickpng.com%2fthumbs%2f5847f5bdcef1014c0b5e489c.png&ehk=ce9Og%2fYuXZic%2fTWR15NzqGIfTXj2rnuAd3m00U%2fIAWU%3d&risl=&pid=ImgRaw&r=0)
-
-![github](https://tse2.mm.bing.net/th/id/OIP.hG6v403fXEtFUUkC_PUq2QHaKt?rs=1&pid=ImgDetMain&o=7&rm=3)
-
-![github](https://tse2.mm.bing.net/th/id/OIP.7k-TAUMxVGl00auu2kcDFAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3)
-
 🔭 Atualmente estou trabalhando nesta página
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ParreirasJuniorWeb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/jvparreiras/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](html)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](css)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](JS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'>](Node.js)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php' height='40'>](php)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](React)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](Python)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg' alt='jupyter' height='40'>](Jupyter_notebbok)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sqlite.svg' alt='sqlite' height='40'>](SQL)  
 
 <!---
 ParreirasJuniorWeb/ParreirasJuniorWeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
