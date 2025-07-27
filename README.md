@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @ParreirasJuniorWeb
-- 👀 I’m interested in websites development and learning new web tecnologies. 
-- 🌱 I’m currently learning Javascript, HTML, CSS and PHP
-- 💞️ I’m looking to collaborate on simple web projects
-- 📫 How to reach me joaoparreiras2020@gmail.com ou WhatsApp: (31) 992396360
+# Olá! Eu sou o João Victor 👋
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Técnico em Informática na SES-MG  
+🌐 Desenvolvimento Web, Suporte e Infraestrutura  
+🚀 Projetos com React Native, Node.js, PHP, JS e mais!
+
+🔗 Portfólio: http://bit.ly/3t1yzNY  
+📫 Conecte-se comigo no [LinkedIn](https://linkedin.com/in/john-victor-parreiras-a028622a2)
 
 <!---
 ParreirasJuniorWeb/ParreirasJuniorWeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
