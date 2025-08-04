@@ -6,7 +6,7 @@
 🚀 Projetos com React Native, Node.js, PHP, JS e mais!
 
 🔗 Portfólio: http://bit.ly/3t1yzNY / https://meuportfolio-amber-delta.vercel.app/ 
-📫 Conecte-se comigo no [LinkedIn](https://linkedin.com/in/john-victor-parreiras-a028622a2)
+📫 Conecte-se comigo no [LinkedIn](https://linkedin.com/in/jvparreiras)
 
 Habilidades: PHP / REACT / JS / HTML / CSS / SQL / Python
 
