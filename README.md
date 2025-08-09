@@ -5,7 +5,7 @@
 🌐 Desenvolvimento Web, Suporte e Infraestrutura  
 🚀 Projetos com React Native, Node.js, PHP, JS e mais!
 
-🔗 Portfólio: http://bit.ly/3t1yzNY / https://meuportfolio-amber-delta.vercel.app/ portfolio-react-sass-omega.vercel.app
+🔗 Portfólio: http://bit.ly/3t1yzNY / https://meuportfolio-amber-delta.vercel.app/ https://portfolio-react-sass-omega.vercel.app ou https://meu-portfolio-html-css-javascript-com.onrender.com
 
 📫 Conecte-se comigo no [LinkedIn](https://linkedin.com/in/jvparreiras)
 
