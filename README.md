@@ -1,4 +1,15 @@
-# Olá! Eu sou o João Victor 👋
+--- 
+
+# 👋 Olá, eu sou João Victor Parreiras Soares  
+
+🎯 Técnico em Informática | Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Front-End  
+
+Sou apaixonado por tecnologia, com foco em **desenvolvimento web**, onde aplico meus conhecimentos em **HTML, CSS, JavaScript, React e Node.js**.  
+Atualmente venho desenvolvendo projetos práticos que unem **teoria e prática**, buscando evoluir minhas habilidades e construir soluções úteis.  
+
+---
+
+## 🎓 Especializações
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Técnico em Informática na SES-MG  
@@ -9,20 +20,16 @@
 
 📫 Conecte-se comigo no [LinkedIn](https://linkedin.com/in/jvparreiras)
 
-Habilidades: PHP / REACT / JS / HTML / CSS / SQL / Python
+---
+
+🛠️ Habilidades: PHP / REACT / JS / HTML / CSS / SQL / Python
 
 🔭 Atualmente estou trabalhando nesta página
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ParreirasJuniorWeb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/jvparreiras/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](html)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](css)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](JS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'>](Node.js)  [<img src='https://cdn.j[README.md](https://github.com/user-attachments/files/22431017/README.md)
-sdelivr.net/npm/si
-# 👋 Olá, eu sou João Victor Parreiras Soares  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ParreirasJuniorWeb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/jvparreiras/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](html)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](css)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](JS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'>](Node.js)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php' height='40'>](php) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](React) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](Python)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg' alt='jupyter' height='40'>](Jupyter_notebbok) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sqlite.svg' alt='sqlite' height='40'>](SQL) 
 
-🎯 Técnico em Informática | Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Front-End  
-
-Sou apaixonado por tecnologia, com foco em **desenvolvimento web**, onde aplico meus conhecimentos em **HTML, CSS, JavaScript, React e Node.js**.  
-Atualmente venho desenvolvendo projetos práticos que unem **teoria e prática**, buscando evoluir minhas habilidades e construir soluções úteis.  
-
----
+--- 
 
 ## 🚀 Projetos em Destaque  
 
@@ -108,8 +115,7 @@ Atualmente venho desenvolvendo projetos práticos que unem **teoria e prática**
 </p>
 
 ---
-✨ Sempre aprendendo e em busca de desafios que me ajudem a crescer como desenvolvedor.
-mple-icons@3.0.1/icons/php.svg' alt='php' height='40'>](php)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](React)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](Python)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg' alt='jupyter' height='40'>](Jupyter_notebbok)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sqlite.svg' alt='sqlite' height='40'>](SQL)  
+✨ Sempre aprendendo e em busca de desafios que me ajudem a crescer como desenvolvedor. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParreirasJuniorWeb)](https://github.com/anuraghazra/github-readme-stats)
 
