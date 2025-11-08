@@ -69,6 +69,10 @@ Atualmente venho desenvolvendo projetos práticos que unem **teoria e prática**
 - [Repositório](https://github.com/ParreirasJuniorWeb/carrosel_imagens_em_HTML_CSS_puro.git)  
 - [Deploy](https://carrosel-imagens-em-html-css-puro.vercel.app/)  
 
+### 🔹 Advanced WeatherApp in React Tailwind Lucide React Icons OpenWeatherAPI  
+- [Repositório](https://github.com/ParreirasJuniorWeb/AdvancedWeatherApp.git)  
+- [Deploy](https://advanced-weather-app-xi.vercel.app/)  
+
 ---
 
 ## 🛠️ Minhas Habilidades  
