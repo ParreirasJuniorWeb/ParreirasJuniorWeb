@@ -2,8 +2,6 @@
 
 # 👋 Olá, eu sou João Victor Parreiras Soares  
 
-*Desenvolvedora FullStack*
-
 🎯 Técnico em Informática | Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Front-End  
 
 Sou apaixonado por tecnologia, com foco em **desenvolvimento web**, onde aplico meus conhecimentos em **HTML, CSS, JavaScript, React e Node.js**.  
