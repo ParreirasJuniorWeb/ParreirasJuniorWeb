@@ -25,6 +25,8 @@ Atualmente venho desenvolvendo projetos práticos que unem **teoria e prática**
 
 🛠️ Habilidades: PHP / REACT / JS / HTML / CSS / SQL / Python
 
+<br />
+
 <img 
     align="left" 
     alt="HTML"
@@ -137,6 +139,8 @@ Atualmente venho desenvolvendo projetos práticos que unem **teoria e prática**
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<br />
 
 --- 
 
