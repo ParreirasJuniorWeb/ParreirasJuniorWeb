@@ -2,6 +2,8 @@
 
 # 👋 Olá, eu sou João Victor Parreiras Soares  
 
+## Desenvolvedor FullStack | React + Node.js
+
 🎯 Técnico em Informática | Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Front-End  
 
 Sou apaixonado por tecnologia, com foco em **desenvolvimento web**, onde aplico meus conhecimentos em **HTML, CSS, JavaScript, React e Node.js**.  
@@ -16,7 +18,7 @@ Atualmente venho desenvolvendo projetos práticos que unem **teoria e prática**
 🌐 Desenvolvimento Web, Suporte e Infraestrutura  
 🚀 Projetos com React Native, Node.js, PHP, JS e mais!
 
-🔗 Portfólio: http://bit.ly/3t1yzNY / https://meuportfolio-amber-delta.vercel.app/ https://portfolio-react-sass-omega.vercel.app ou https://meu-portfolio-html-css-javascript-com.onrender.com
+🔗 Portfólio: https://portfolio-react-sass-omega.vercel.app.
 
 📫 Conecte-se comigo no [LinkedIn](https://linkedin.com/in/jvparreiras)
 
@@ -69,11 +71,11 @@ Atualmente venho desenvolvendo projetos práticos que unem **teoria e prática**
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Vite.js" 
+    title="Vite.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
 />
 <img 
     align="left" 
@@ -109,11 +111,11 @@ Atualmente venho desenvolvendo projetos práticos que unem **teoria e prática**
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left" 
@@ -210,10 +212,28 @@ Atualmente venho desenvolvendo projetos práticos que unem **teoria e prática**
 
 ## 📊 Estatísticas do GitHub  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParreirasJuniorWeb&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParreirasJuniorWeb&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p align="left">
+  <img 
+    height="220" 
+    style="padding-right: 15px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ParreirasJuniorWeb&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" 
+  />
+  <img 
+    height="220" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParreirasJuniorWeb&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" 
+  />
 </p>
+
+---
+
+## 🎯 O que procuro
+
+- 🧑‍💻 **Vaga Júnior/Pleno React + Node.js**
+- 💼 **Projetos com impacto real**
+- 📚 **Mentoria e crescimento profissional**
+- 🌎 **Remoto ou híbrido**
+
+**Stack foco:** `React.js` | `Node.js` | `TypeScript` | `Next.js`
 
 ---
 
@@ -231,12 +251,13 @@ Atualmente venho desenvolvendo projetos práticos que unem **teoria e prática**
   </a>
 </p>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ParreirasJuniorWeb&style=flat-square&color=blue" alt="Profile views" />
+</div>
+
 ---
-✨ Sempre aprendendo e em busca de desafios que me ajudem a crescer como desenvolvedor. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParreirasJuniorWeb)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ParreirasJuniorWeb&show_icons=true)  
+**"Construindo o futuro com React e Node.js. Sempre aprendendo! 🚀"**
 
 <!---
 ParreirasJuniorWeb/ParreirasJuniorWeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
