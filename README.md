@@ -11,21 +11,67 @@ Atualmente venho desenvolvendo projetos práticos que unem **teoria e prática**
 
 ---
 
+## 🌟 Meus 3 Melhores Projetos
+
+### ⭐ [Advanced To-Do Pro](https://github.com/ParreirasJuniorWeb/PROJETO_DO_TO_LIST_AdvancedToDoPro)
+> Aplicação de gerenciamento de tarefas com Técnica Pomodoro integrada
+
+- 🍅 Técnica Pomodoro para máxima produtividade
+- 📊 Análise de tarefas concluídas e tempo focado
+- 💾 Persistência com localStorage
+- 🎨 Tema claro/escuro dinâmico
+- 📱 100% Responsivo (Mobile-First)
+
+**Tech:** React • Context API • Hooks (useState, useEffect, useContext) • CSS3
+
+[📖 Ver Documentação](https://github.com/ParreirasJuniorWeb/PROJETO_DO_TO_LIST_AdvancedToDoPro/blob/main/README.md) | [🚀 Visitar App](#)
+
+---
+
+### 🌤️ [Weather App](https://github.com/ParreirasJuniorWeb/ReactWeatherApp_useAPIContext_customHookToFetch)
+> App de previsão do tempo moderno com integração OpenWeatherMap
+
+- 🌍 Geolocalização automática
+- 🔄 Custom Hooks avançados (useWeather, useFetch, useGeolocation)
+- 📈 Previsão de 7 dias
+- 🎯 Context API para state management
+- ⚡ Performance otimizada (Lighthouse 95+)
+
+**Tech:** React • OpenWeatherMap API • Custom Hooks • Geolocation API • Responsive
+
+[📖 Ver Documentação](https://github.com/ParreirasJuniorWeb/ReactWeatherApp_useAPIContext_customHookToFetch/blob/main/README.md) | [🚀 Visitar App](#)
+
+---
+
+### 📸 [Memories App](https://github.com/ParreirasJuniorWeb/MemoriesProject)
+> Galeria Full-Stack de memórias com sistema de comentários
+
+- 🖼️ Upload de fotos com Multer
+- 💬 Sistema completo de comentários
+- 👥 Gerenciamento de usuários
+- 🔐 Autenticação & Autorização
+- 📡 RESTful API com documentação
+
+**Tech:** React • Node.js • Express • MongoDB • Mongoose • Multer
+
+[📖 Ver Documentação](https://github.com/ParreirasJuniorWeb/MemoriesProject/blob/main/README.md) | [🚀 Visitar App](#)
+
+---
+
 ## 🎓 Especializações
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Técnico em Informática na SES-MG  
 🌐 Desenvolvimento Web, Suporte e Infraestrutura  
-🚀 Projetos com React Native, Node.js, PHP, JS e mais!
+🚀 Projetos com React, Node.js, PHP, JS e mais!
 
-🔗 Portfólio: https://portfolio-react-sass-omega.vercel.app.
-
-📫 Conecte-se comigo no [LinkedIn](https://linkedin.com/in/jvparreiras)
+🔗 Portfólio: https://portfolio-react-sass-omega.vercel.app
 
 ---
+
 ## 🤖 Linguagens e Tecnologias
 
-🛠️ Habilidades: PHP / REACT / JS / HTML / CSS / SQL / Python
+🛠️ Habilidades: React / Node.js / JavaScript / HTML / CSS / MongoDB / PHP / Python / SQL
 
 <br />
 
@@ -68,6 +114,30 @@ Atualmente venho desenvolvendo projetos práticos que unem **teoria e prática**
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Express" 
+    title="Express.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
 />
 <img 
     align="left" 
@@ -119,14 +189,6 @@ Atualmente venho desenvolvendo projetos práticos que unem **teoria e prática**
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -146,71 +208,7 @@ Atualmente venho desenvolvendo projetos práticos que unem **teoria e prática**
 
 --- 
 
-## 🚀 Projetos em Destaque  
-
-### 🔹 CRUD em JavaScript com LocalStorage  
-- [Repositório](https://github.com/ParreirasJuniorWeb/Aplicacao_CRUD_em_javascript_com_localStorage.git)  
-- [Deploy](https://aplicacao-crud-em-javascript-com-lo.vercel.app/)  
-
-### 🔹 Calculadora de Idade (Dark/Light Mode)  
-- [Repositório](https://github.com/ParreirasJuniorWeb/Calculadora_idade_HTML_CSS_javascript.git)  
-- [Deploy](https://calculadora-idade-html-css-javascri.vercel.app/)  
-
-### 🔹 Calculadora IMC  
-- [Repositório](https://github.com/ParreirasJuniorWeb/Calculadora_IMC_HTML_CSS_javascript.git)  
-- [Deploy](https://calculadora-imc-html-css-javascript.vercel.app/)  
-
-### 🔹 Relógio Digital  
-- [Repositório](https://github.com/ParreirasJuniorWeb/relogio_digital_em_HTML_CSS_javascript.git)  
-- [Deploy](https://relogio-digital-em-html-css-javascr.vercel.app/)  
-
-### 🔹 Calculadora de Regra de Três Simples  
-- [Repositório](https://github.com/ParreirasJuniorWeb/Calculadora_regra_de_tres_simples_HTML_CSS_javascript.git)  
-- [Deploy](https://calculadora-regra-de-tres-simples-h.vercel.app/)  
-
-### 🔹 Cronômetro Digital  
-- [Repositório](https://github.com/ParreirasJuniorWeb/cronometro_digital_HTML_CSS_javascript.git)  
-- [Deploy](https://cronometro-digital-html-css-javascr.vercel.app/)  
-
-### 🔹 Portfólio Azul e Branco  
-- [Repositório](https://github.com/ParreirasJuniorWeb/MyPortfolio.git)  
-- [Deploy](https://meuportfolio-amber-delta.vercel.app/)  
-
-### 🔹 Portfólio Roxo e Branco (Dark/Light Mode)  
-- [Repositório](https://github.com/ParreirasJuniorWeb/Portfolio-pessoal-responsivo-com-design-inovador-feito-em-HTML-CSS-e-javascript.git)  
-- [Deploy](https://portfolio-pessoal-responsivo-com-de.vercel.app/)  
-
-### 🔹 Carrossel de Imagens em HTML e CSS  
-- [Repositório](https://github.com/ParreirasJuniorWeb/carrosel_imagens_em_HTML_CSS_puro.git)  
-- [Deploy](https://carrosel-imagens-em-html-css-puro.vercel.app/)  
-
-### 🔹 Advanced WeatherApp in React Tailwind Lucide React Icons OpenWeatherAPI  
-- [Repositório](https://github.com/ParreirasJuniorWeb/AdvancedWeatherApp.git)  
-- [Deploy](https://advanced-weather-app-xi.vercel.app/)  
-
----
-
-## 🛠️ Minhas Habilidades  
-
-### 🌐 Front-End  
-- HTML5, CSS3, JavaScript (ES6+)  
-- React.js (SPA, hooks, componentes)  
-- Design Responsivo (Flexbox, Grid)  
-- UX/UI básico  
-
-### ⚙️ Back-End  
-- Node.js (básico)  
-- APIs REST  
-- Gerenciamento de pacotes (NPM/Yarn)  
-
-### 📊 Outras Habilidades  
-- Git/GitHub (versionamento e colaboração)  
-- Deploy com Vercel  
-- Microsoft 365 & Active Directory (Administração e suporte técnico)  
-
----
-
-## 📊 Estatísticas do GitHub  
+## 📊 Estatísticas do GitHub
 
 <p align="left">
   <img 
@@ -226,14 +224,83 @@ Atualmente venho desenvolvendo projetos práticos que unem **teoria e prática**
 
 ---
 
-## 🎯 O que procuro
+## 🎯 O que estou fazendo agora
+
+- 🚀 Aprofundando em **React 18** e **TypeScript**
+- 📚 Estudando **padrões de design** e **arquitetura limpa**
+- 🔧 Explorando **testes automatizados** (Jest, React Testing Library)
+- 💡 Desenvolvendo novos projetos Full-Stack
+- 🌐 Melhorando habilidades em **deploy & performance**
+
+---
+
+## 🛠️ Minhas Habilidades  
+
+### 🌐 Front-End  
+- ✅ HTML5 semântico
+- ✅ CSS3 (Flexbox, Grid, Animations)  
+- ✅ JavaScript (ES6+)  
+- ✅ React.js (Hooks, Context API, componentes funcionais)  
+- ✅ Custom Hooks reutilizáveis
+- ✅ Design Responsivo (Mobile-First)  
+- ✅ Bootstrap 5 / Tailwind CSS
+- ✅ UX/UI básico
+
+### ⚙️ Back-End  
+- ✅ Node.js + Express
+- ✅ APIs REST completas  
+- ✅ MongoDB + Mongoose
+- ✅ Autenticação & Autorização
+- ✅ Upload de arquivos (Multer)
+- ✅ Middleware customizado
+- ✅ Error handling profissional
+
+### 🛠️ Ferramentas & DevOps  
+- ✅ Git/GitHub (versionamento e colaboração)  
+- ✅ Deploy (Vercel, Netlify, Railway)  
+- ✅ NPM/Yarn (gerenciamento de pacotes)
+- ✅ Vite (bundler moderno)
+- ✅ VS Code
+- ✅ Figma (UI Design)
+
+---
+
+## 🚀 Mais Projetos
+
+### 🔹 [Simon Game Challenge](https://github.com/ParreirasJuniorWeb/SimonGameChallengeCompleted)
+Jogo interativo com Web Audio API, DOM Manipulation e lógica complexa
+- [Repositório](https://github.com/ParreirasJuniorWeb/SimonGameChallengeCompleted)
+
+### 🔹 [Quiz React App](https://github.com/ParreirasJuniorWeb/QuizReact)
+Quiz interativo com 50+ perguntas, Context API e feedback em tempo real
+- [Repositório](https://github.com/ParreirasJuniorWeb/QuizReact)
+
+### 🔹 [Countdown Timer React](https://github.com/ParreirasJuniorWeb/CountDownReact)
+Timer com 5+ temas, upload de imagens e notificações
+- [Repositório](https://github.com/ParreirasJuniorWeb/CountDownReact)
+
+### 🔹 [Password Generator](https://github.com/ParreirasJuniorWeb/PROJETO_GERADOR_SENHAS)
+Gerador de senhas com níveis de força e Clipboard API
+- [Repositório](https://github.com/ParreirasJuniorWeb/PROJETO_GERADOR_SENHAS)
+
+### 🔹 [Box Shadow Generator](https://github.com/ParreirasJuniorWeb/PROJECT_GERADOR_BOX_SHADOW)
+Gerador visual de sombras CSS em tempo real
+- [Repositório](https://github.com/ParreirasJuniorWeb/PROJECT_GERADOR_BOX_SHADOW)
+
+### 🔹 [Dev Notes App](https://github.com/ParreirasJuniorWeb/PROJETO_DEV_NOTES)
+Aplicativo de anotações com localStorage, exportação CSV e tema claro/escuro
+- [Repositório](https://github.com/ParreirasJuniorWeb/PROJETO_DEV_NOTES)
+
+---
+
+## 💼 Buscando Oportunidades
 
 - 🧑‍💻 **Vaga Júnior/Pleno React + Node.js**
 - 💼 **Projetos com impacto real**
 - 📚 **Mentoria e crescimento profissional**
 - 🌎 **Remoto ou híbrido**
 
-**Stack foco:** `React.js` | `Node.js` | `TypeScript` | `Next.js`
+**Stack foco:** `React.js` | `Node.js` | `TypeScript` | `MongoDB` | `APIs REST`
 
 ---
 
@@ -249,6 +316,9 @@ Atualmente venho desenvolvendo projetos práticos que unem **teoria e prática**
   <a href="https://github.com/ParreirasJuniorWeb">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://portfolio-react-sass-omega.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 <div align="center">
@@ -257,7 +327,15 @@ Atualmente venho desenvolvendo projetos práticos que unem **teoria e prática**
 
 ---
 
+## ⭐ Se gostou, deixe uma estrela nos repositórios!
+
+<div align="center">
+
 **"Construindo o futuro com React e Node.js. Sempre aprendendo! 🚀"**
+
+Made with ❤️ by Parreira Junior
+
+</div>
 
 <!---
 ParreirasJuniorWeb/ParreirasJuniorWeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
