@@ -262,6 +262,20 @@ Atualmente venho desenvolvendo projetos práticos que unem **teoria e prática**
 - ✅ Vite (bundler moderno)
 - ✅ VS Code
 - ✅ Figma (UI Design)
+  
+---
+
+🤖 Meu processo de desenvolvimento
+
+Utilizo Inteligência Artificial como uma ferramenta para aumentar produtividade em tarefas como pesquisa, brainstorming, documentação, revisão de código e criação de testes. Entretanto, considero que compreender o problema, definir a arquitetura, implementar as funcionalidades, validar as regras de negócio, depurar erros e garantir a qualidade da solução são responsabilidades exclusivamente minhas.
+
+Meu objetivo não é delegar o desenvolvimento à IA, mas utilizá-la como apoio para construir software melhor, de forma mais eficiente e com maior qualidade.
+
+Meu processo de desenvolvimento combina engenharia de software tradicional com ferramentas modernas de IA. Utilizo Inteligência Artificial para acelerar tarefas repetitivas, explorar alternativas de implementação, revisar código e apoiar testes, mantendo sob minha responsabilidade todas as decisões técnicas, validações e revisões finais.
+
+### 🧩 Minha filosofia pessoal:
+
+>> Acredito que a Inteligência Artificial não substitui o desenvolvedor. Quando utilizada com responsabilidade, ela amplia a produtividade, enquanto o entendimento do problema, as decisões técnicas e a qualidade da solução continuam sendo responsabilidade de quem desenvolve o software.
 
 ---
 
