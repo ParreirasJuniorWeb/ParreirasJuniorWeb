@@ -275,7 +275,7 @@ Meu processo de desenvolvimento combina engenharia de software tradicional com f
 
 ### 🧩 Minha filosofia pessoal:
 
->> Acredito que a Inteligência Artificial não substitui o desenvolvedor. Quando utilizada com responsabilidade, ela amplia a produtividade, enquanto o entendimento do problema, as decisões técnicas e a qualidade da solução continuam sendo responsabilidade de quem desenvolve o software.
+> Acredito que a Inteligência Artificial não substitui o desenvolvedor. Quando utilizada com responsabilidade, ela amplia a produtividade, enquanto o entendimento do problema, as decisões técnicas e a qualidade da solução continuam sendo responsabilidade de quem desenvolve o software.
 
 ---
 
