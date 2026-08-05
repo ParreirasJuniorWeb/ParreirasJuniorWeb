@@ -4,7 +4,7 @@
 
 ## Desenvolvedor FullStack | React + Node.js
 
-🎯 Técnico em Informática | Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Front-End  
+🎯 Técnico em Informática | Profissional formado em Análise e Desenvolvimento de Sistemas | Desenvolvedor Front-End | Desenvolvedor Full Stack JavaScript (React + Node.js) 
 
 Sou apaixonado por tecnologia, com foco em **desenvolvimento web**, onde aplico meus conhecimentos em **HTML, CSS, JavaScript, React e Node.js**.  
 Atualmente venho desenvolvendo projetos práticos que unem **teoria e prática**, buscando evoluir minhas habilidades e construir soluções úteis.  
